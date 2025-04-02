@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OgiLock
-- 👀 I’m interested in Web Desing and Web Development 
-- 🌱 I’m currently learning to code (I'm not)
-- 💞️ I’m looking to collaborate on coding
+- 👀 I’m interested in more sleep
+- 🌱 I’m (I'm not)
+- ♟️ I’m looking (I'm not)
 - 📫 Reach me by email
 
 <!---
